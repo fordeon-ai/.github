@@ -1,6 +1,9 @@
 <div align="center">
 
-# Fordeon
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fordeon-logo-reversed.png">
+  <img src="assets/fordeon-logo.png" alt="Fordeon" width="360">
+</picture>
 
 **Real business needs. Digital solutions.**
 
